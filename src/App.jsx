@@ -59,10 +59,10 @@ export default function App() {
 
   return (
 
-    <div className='flex flex-col items-center'>
+    <div className='flex flex-col items-center m-20'>
 
       <form onSubmit={handleSubmitUrl}
-            className='w-full flex flex-col items-center mt-16'>
+            className='w-full flex flex-col items-center'>
         <h1 className='text-8xl font-bold cursor-default'>URLite</h1>
 
         <div className='mt-4'>
