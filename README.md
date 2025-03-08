@@ -23,7 +23,7 @@ ___
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/URLite.git
+   git clone https://github.com/gabnash05/URLite.git
    cd URLite
    ```
 
